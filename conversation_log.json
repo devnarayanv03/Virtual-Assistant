@@ -1,0 +1,30 @@
+[
+    {
+        "user_input": "hello ",
+        "response": "Sorry, I couldn't generate a response at this time."
+    },
+    {
+        "user_input": "hello",
+        "response": "Sorry, I couldn't generate a response at this time."
+    },
+    {
+        "user_input": "good morning",
+        "response": "Sorry, I couldn't generate a response at this time."
+    },
+    {
+        "user_input": "hello how are you",
+        "response": "Sorry, I couldn't generate a response at this time."
+    },
+    {
+        "user_input": "hello, how are you",
+        "corrected_input": "hello, how are you",
+        "response": "Sorry, I couldn't generate a response at this time.",
+        "emotion": "neutral"
+    },
+    {
+        "user_input": "hello",
+        "corrected_input": "hello",
+        "response": "Sorry, I couldn't generate a response at this time.",
+        "emotion": null
+    }
+]
